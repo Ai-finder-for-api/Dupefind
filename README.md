@@ -1,4 +1,4 @@
-# test-proj-1 — dupefind
+# dupefind
 
 A small, dependency-free Go CLI that finds duplicate files by content (SHA-256).
 Files are first grouped by size so only plausible duplicates get hashed.
